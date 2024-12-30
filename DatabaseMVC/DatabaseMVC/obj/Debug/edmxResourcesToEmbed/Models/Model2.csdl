@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyShopModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Mark">
+    <Key>
+      <PropertyRef Name="Stid" />
+      <PropertyRef Name="Subid" />
+    </Key>
+    <Property Name="Stid" Type="Int32" Nullable="false" />
+    <Property Name="Subid" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Decimal" Precision="5" Scale="2" />
+    <NavigationProperty Name="Subject" Relationship="Self.FK__Marks__Subid__04E4BC85" FromRole="Marks" ToRole="Subjects" />
+    <NavigationProperty Name="Subject1" Relationship="Self.FK__Marks__Subid__0A9D95DB" FromRole="Marks" ToRole="Subjects" />
+    <NavigationProperty Name="Subject2" Relationship="Self.FK__Marks__Subid__6EF57B66" FromRole="Marks" ToRole="Subjects" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="subid" />
+    </Key>
+    <Property Name="subid" Type="Int32" Nullable="false" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Marks" Relationship="Self.FK__Marks__Subid__04E4BC85" FromRole="Subjects" ToRole="Marks" />
+    <NavigationProperty Name="Marks1" Relationship="Self.FK__Marks__Subid__0A9D95DB" FromRole="Subjects" ToRole="Marks" />
+    <NavigationProperty Name="Marks2" Relationship="Self.FK__Marks__Subid__6EF57B66" FromRole="Subjects" ToRole="Marks" />
+  </EntityType>
+  <Association Name="FK__Marks__Subid__04E4BC85">
+    <End Role="Subjects" Type="Self.Subject" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Mark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="subid" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="Subid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Marks__Subid__0A9D95DB">
+    <End Role="Subjects" Type="Self.Subject" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Mark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="subid" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="Subid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Marks__Subid__6EF57B66">
+    <End Role="Subjects" Type="Self.Subject" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Mark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="subid" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="Subid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyShopEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Marks" EntityType="Self.Mark" />
+    <EntitySet Name="Subjects" EntityType="Self.Subject" />
+    <AssociationSet Name="FK__Marks__Subid__04E4BC85" Association="Self.FK__Marks__Subid__04E4BC85">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Marks__Subid__0A9D95DB" Association="Self.FK__Marks__Subid__0A9D95DB">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Marks__Subid__6EF57B66" Association="Self.FK__Marks__Subid__6EF57B66">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

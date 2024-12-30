@@ -1,0 +1,83 @@
+﻿@model EmployeeUI.Models.Employee
+
+<div style="margin:20px; padding:10px; border:solid 1px teal; font-family: Calibri">
+    <div style="margin:3px">welcome:  </div>
+    <hr />
+    <div style="margin: 3px">Employee profile</div>
+    <div style="margin:3px; margin-top:1px; padding:5px">
+        <form asp-action="Add" asp-controller="Employee">
+            <div class="form-control">
+                <div>Name</div>
+                <div>
+                    <input type="text" asp-for="Name" class="form-control" />
+                </div>
+            </div>
+            <div class="form-control">
+                <div>Email</div>
+                <div>
+                    <input type="text" asp-for="Email" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>Mobile</div>
+                <div>
+                    <input type="text" asp-for="Mobile" class="form-control" />
+                </div>
+            </div>
+
+
+            <div class="form-control">
+                <div>Password</div>
+                <div>
+                    <input type="text" asp-for="Password" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>Date of birth</div>
+                <div>
+                    <input type="text" asp-for="DOB" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>Date of join</div>
+                <div>
+                    <input type="text" asp-for="DOJ" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>Salary</div>
+                <div>
+                    <input type="text" asp-for="Salary" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>SkillSet</div>
+                <div>
+                    <input type="text" asp-for="Skillset" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div>Address</div>
+                <div>
+                    <input type="text" asp-for="Address" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-control">
+                <div> Department Name</div>
+                <div>
+                    @Html.DropDownListFor(m => m.DepartmentId, new SelectList(ViewBag.Departments, "Id", "DepartmentName"), "Choose Department", new { @class = "form-control" })
+                </div>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-primary form-control">Save Employee Data</button>
+            </div>
+        </form>
+    </div>
+</div>

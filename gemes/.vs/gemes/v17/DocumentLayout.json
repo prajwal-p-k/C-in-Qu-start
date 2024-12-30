@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8EB36C-888B-469A-B3C3-8EF267B5E107}|game1\\game1.csproj|c:\\users\\prajwalpk\\source\\repos\\gemes\\game1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8EB36C-888B-469A-B3C3-8EF267B5E107}|game1\\game1.csproj|solutionrelative:game1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|c:\\users\\prajwalpk\\source\\repos\\gemes\\gemes\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|solutionrelative:gemes\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|c:\\users\\prajwalpk\\source\\repos\\gemes\\gemes\\min.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|solutionrelative:gemes\\min.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|c:\\users\\prajwalpk\\source\\repos\\gemes\\gemes\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|solutionrelative:gemes\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|c:\\users\\prajwalpk\\source\\repos\\gemes\\gemes\\min.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}|gemes\\gemes.csproj|solutionrelative:gemes\\min.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\game1\\Class1.cs",
+              "RelativeDocumentMoniker": "game1\\Class1.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\game1\\Class1.cs",
+              "RelativeToolTip": "game1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:12:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "min.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\min.aspx.cs",
+              "RelativeDocumentMoniker": "gemes\\min.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\min.aspx.cs",
+              "RelativeToolTip": "gemes\\min.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:43:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "min.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\min.aspx",
+              "RelativeDocumentMoniker": "gemes\\min.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\min.aspx",
+              "RelativeToolTip": "gemes\\min.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T11:42:43.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "gemes\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\Home.aspx.cs",
+              "RelativeToolTip": "gemes\\Home.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:25:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\Home.aspx",
+              "RelativeDocumentMoniker": "gemes\\Home.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\gemes\\gemes\\Home.aspx",
+              "RelativeToolTip": "gemes\\Home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T11:21:52.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

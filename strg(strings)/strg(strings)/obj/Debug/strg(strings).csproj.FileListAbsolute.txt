@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\bin\Debug\strg(strings).exe.config
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\bin\Debug\strg(strings).exe
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\bin\Debug\strg(strings).pdb
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\obj\Debug\strg(strings).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\obj\Debug\strg(strings).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\obj\Debug\strg(strings).exe
+C:\Users\PrajwalPK\source\repos\strg(strings)\strg(strings)\obj\Debug\strg(strings).pdb

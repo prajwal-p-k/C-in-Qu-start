@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\count\count\bin\Debug\count.exe.config
+C:\Users\PrajwalPK\source\repos\count\count\bin\Debug\count.exe
+C:\Users\PrajwalPK\source\repos\count\count\bin\Debug\count.pdb
+C:\Users\PrajwalPK\source\repos\count\count\obj\Debug\count.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\count\count\obj\Debug\count.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\count\count\obj\Debug\count.exe
+C:\Users\PrajwalPK\source\repos\count\count\obj\Debug\count.pdb

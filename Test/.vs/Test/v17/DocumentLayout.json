@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\views\\book\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\views\\book\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\views\\book\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\views\\book\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\views\\book\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\views\\book\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\views\\book\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\views\\book\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\migrations\\20241206093711_first2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\migrations\\20241206093711_first2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\migrations\\20241206093530_first1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\migrations\\20241206093530_first1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\migrations\\20241206093213_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\migrations\\20241206093213_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\migrations\\20241206095412_first4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\migrations\\20241206095412_first4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|c:\\users\\prajwalpk\\source\\repos\\test\\test\\migrations\\20241206094840_first3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9768C6-CE67-425C-BB0F-DDB12E7C48DD}|Test\\Test.csproj|solutionrelative:test\\migrations\\20241206094840_first3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:29:02.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Home.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Book\\Home.cshtml",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Home.cshtml",
+              "RelativeToolTip": "Test\\Views\\Book\\Home.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:07:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Login.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Book\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Login.cshtml",
+              "RelativeToolTip": "Test\\Views\\Book\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:57:17.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Services\\Authentication.cs",
+              "RelativeDocumentMoniker": "Test\\Services\\Authentication.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Services\\Authentication.cs",
+              "RelativeToolTip": "Test\\Services\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:52:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:03:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Test\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:00:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241206093530_first1.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093530_first1.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20241206093530_first1.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093530_first1.cs",
+              "RelativeToolTip": "Test\\Migrations\\20241206093530_first1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:35:31.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Book.cs",
+              "RelativeToolTip": "Test\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:19:43.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Book\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Index1.cshtml",
+              "RelativeToolTip": "Test\\Views\\Book\\Index1.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:13:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T09:27:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Category.cs",
+              "RelativeToolTip": "Test\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:18:18.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\Publisher.cs",
+              "RelativeToolTip": "Test\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:17:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241206093711_first2.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093711_first2.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20241206093711_first2.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093711_first2.cs",
+              "RelativeToolTip": "Test\\Migrations\\20241206093711_first2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:37:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Register.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Book\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Views\\Book\\Register.cshtml",
+              "RelativeToolTip": "Test\\Views\\Book\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:12:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241206094840_first3.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206094840_first3.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20241206094840_first3.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206094840_first3.cs",
+              "RelativeToolTip": "Test\\Migrations\\20241206094840_first3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:48:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Test\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:12:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241206095412_first4.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206095412_first4.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20241206095412_first4.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206095412_first4.cs",
+              "RelativeToolTip": "Test\\Migrations\\20241206095412_first4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:54:12.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241206093213_first.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093213_first.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20241206093213_first.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Migrations\\20241206093213_first.cs",
+              "RelativeToolTip": "Test\\Migrations\\20241206093213_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:32:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Test\\Test\\Models\\User.cs",
+              "RelativeToolTip": "Test\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:15:26.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

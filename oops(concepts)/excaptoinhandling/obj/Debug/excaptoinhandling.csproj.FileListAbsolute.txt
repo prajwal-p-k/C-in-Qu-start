@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\bin\Debug\excaptoinhandling.exe.config
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\bin\Debug\excaptoinhandling.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\bin\Debug\excaptoinhandling.pdb
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\obj\Debug\excaptoinhandling.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\obj\Debug\excaptoinhandling.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\obj\Debug\excaptoinhandling.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\excaptoinhandling\obj\Debug\excaptoinhandling.pdb

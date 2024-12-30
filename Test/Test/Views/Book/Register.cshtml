@@ -1,0 +1,78 @@
+﻿@model Test.Models.Book
+
+<div class="container py-4">
+    <!-- Title Section -->
+    <h3 class="mb-4 text-primary">
+        @(TempData["action"]?.ToString() == "edit" ? "Edit Book" : "Add New Book")
+    </h3>
+    <h5 class="text-secondary">
+        Welcome: @ViewBag.msg
+    </h5>
+
+    <!-- Form Section -->
+    <form asp-action="Save" asp-controller="Book" method="post" class="needs-validation" novalidate>
+        <!-- Hidden Inputs -->
+        <input type="hidden" name="ActionType" value="@(TempData["action"]?.ToString() == "edit" ? "edit" : "add")" />
+        <input type="hidden" asp-for="BookId" />
+
+        <!-- Book Name -->
+        <div class="mb-3">
+            <label class="form-label">Book Name</label>
+            <input type="text" asp-for="BookName" class="form-control" placeholder="Enter book name" required />
+            <div class="invalid-feedback">Please enter the book name.</div>
+        </div>
+
+        <!-- Book Author -->
+        <div class="mb-3">
+            <label class="form-label">Book Author</label>
+            <input type="text" asp-for="BookAuthor" class="form-control" placeholder="Enter book author" required />
+            <div class="invalid-feedback">Please enter the author's name.</div>
+        </div>
+
+        <!-- Published Year -->
+        <div class="mb-3">
+            <label class="form-label">Published Year</label>
+            <input type="text" asp-for="BookPublishedYear" class="form-control" placeholder="Enter year" required />
+            <div class="invalid-feedback">Please enter the published year.</div>
+        </div>
+
+        <!-- Category -->
+        <div class="mb-3">
+            <label class="form-label">Category</label>
+            @Html.DropDownListFor(
+                     m => m.BookCategoryId,
+                     new SelectList(ViewBag.Categories, "CategoryId", "CategoryName"),
+                     "Choose Category",
+                     new { @class = "form-select", @required = "required" }
+                     )
+            <div class="invalid-feedback">Please select a category.</div>
+        </div>
+
+        <!-- Publisher -->
+        <div class="mb-3">
+            <label class="form-label">Publisher</label>
+            @Html.DropDownListFor(
+                     m => m.BookPublishedId,
+                     new SelectList(ViewBag.Publishers, "PublisherId", "PublisherName"),
+                     "Choose Publisher",
+                     new { @class = "form-select", @required = "required" }
+                     )
+            <div class="invalid-feedback">Please select a publisher.</div>
+        </div>
+
+        <!-- Price -->
+        <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input type="text" asp-for="BookPrice" class="form-control" placeholder="Enter price" required />
+            <div class="invalid-feedback">Please enter the book price.</div>
+        </div>
+
+        <!-- Buttons -->
+        <div class="d-flex justify-content-between">
+            <a asp-action="Index" asp-controller="Book" class="btn btn-secondary">Cancel</a>
+            <button type="submit" class="btn btn-success">Save</button>
+        </div>
+    </form>
+</div>
+
+

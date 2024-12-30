@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\bin\Debug\oops(concepts).exe.config
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\bin\Debug\oops(concepts).exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\bin\Debug\oops(concepts).pdb
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\obj\Debug\oops(concepts).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\obj\Debug\oops(concepts).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\obj\Debug\oops(concepts).exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\oops(concepts)\obj\Debug\oops(concepts).pdb

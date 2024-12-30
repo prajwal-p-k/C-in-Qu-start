@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\login\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|c:\\users\\prajwalpk\\source\\repos\\formsapp1\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{924FF3AE-6F71-43D5-A68C-F462747FE00C}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:51:32.328Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.cs",
+              "RelativeDocumentMoniker": "Login\\Home.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.cs",
+              "RelativeToolTip": "Login\\Home.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:13:36.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.Designer.cs",
+              "RelativeToolTip": "Login\\Home.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAvwJAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:04:21.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.Designer.cs",
+              "RelativeToolTip": "Login\\Form1.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAcwIsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:20:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.cs",
+              "RelativeDocumentMoniker": "Login\\Home.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Home.cs [Design]",
+              "RelativeToolTip": "Login\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:02:43.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\FormsApp1\\Login\\Form1.cs [Design]",
+              "RelativeToolTip": "Login\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:44:16.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

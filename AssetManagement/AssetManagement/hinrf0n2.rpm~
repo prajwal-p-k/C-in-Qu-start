@@ -1,0 +1,159 @@
+﻿using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace AssetManagement
+{
+    public partial class AddAssetItem : Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                BindAssetTypeDropdown();
+            }
+            DropDownList1.DataSource = Listcategory();
+            DropDownList1.DataTextField = "type_name";
+            DropDownList1.DataValueField = "asset_type_id";
+            DropDownList1.DataBind();
+
+        }
+        DataTable Listcategory()
+        {
+            string con = @"Data Source=LAPTOP-CVVD6RP5; Initial catalog=AssetsManagement; User Id = sa; Password = Kodiyala@123";
+            SqlDataAdapter daAccounts = new SqlDataAdapter("SELECT type_id, name FROM AssetType", con); // Ensure these are correct column names
+            DataTable dtActs = new DataTable();
+            daAccounts.Fill(dtActs);
+
+            // Insert a default row for 'Preferred Asset Type'
+            DataRow r = dtActs.NewRow();
+            r[0] = 0; // Default ID value
+            r[1] = "your preferred asset type"; // Corrected typo in string "preferred"
+            dtActs.Rows.InsertAt(r, 0);
+
+            return dtActs;
+        }
+
+
+        private void TestDatabaseConnection()
+        {
+            string connectionString = @"Data Source=LAPTOP-CVVD6RP5; Initial catalog=AssetsManagement; User Id = sa; Password = Kodiyala@123";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(connectionString))
+                {
+                    con.Open();
+                    Response.Write("<script>alert('Database connection successful.');</script>");
+                }
+            }
+            catch (Exception ex)
+            {
+                Response.Write("<script>alert('Error connecting to the database: " + ex.Message + "');</script>");
+            }
+        }
+
+        private void BindAssetTypeDropdown()
+        {
+            string connectionString = @"Data Source=LAPTOP-CVVD6RP5; Initial catalog=AssetsManagement; User Id = sa; Password = Kodiyala@123";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(connectionString))
+                {
+                    con.Open();
+                    string query = "SELECT asset_type_id, type_name FROM AssetType";
+
+                    using (SqlCommand cmd = new SqlCommand(query, con))
+                    {
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            DropDownList1.Items.Clear();
+                            DropDownList1.Items.Add(new ListItem("Select Asset Type", ""));
+
+                            // Check if the reader has any rows
+                            if (reader.HasRows)
+                            {
+                                while (reader.Read())
+                                {
+                                    DropDownList1.Items.Add(new ListItem(
+                                        reader["type_name"].ToString(),
+                                        reader["asset_type_id"].ToString()
+                                    ));
+                                }
+                            }
+                            else
+                            {
+                                // Log if no data is found
+                                Response.Write("<script>alert('No asset types found in the database.');</script>");
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Log the exception message
+                Response.Write("<script>alert('Error fetching asset types: " + ex.Message + "');</script>");
+            }
+        }
+
+
+        protected void btnAddItem_Click(object sender, EventArgs e)
+        {
+            string assetItemName1 = assetItemName.Text.Trim();
+            string assetTypeId = DropDownList1.SelectedValue;
+
+            // Check if fields are valid
+            if (!string.IsNullOrEmpty(assetItemName1) && !string.IsNullOrEmpty(assetTypeId))
+            {
+                AddAssetItemToDatabase(assetItemName1, assetTypeId);
+            }
+            else
+            {
+                Response.Write("<script>alert('All fields are required.');</script>");
+            }
+        }
+
+        private void AddAssetItemToDatabase(string assetItemName, string assetTypeId)
+        {
+            string connectionString = @"Data Source=LAPTOP-CVVD6RP5; Initial catalog=AssetsManagement; User Id = sa; Password = Kodiyala@123";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(connectionString))
+                {
+                    con.Open();
+                    string query = "INSERT INTO AssetItem (asset_type_id, item_name) VALUES (@AssetTypeId, @ItemName)";
+
+                    using (SqlCommand cmd = new SqlCommand(query, con))
+                    {
+                        // Ensure parameters are set properly for assetTypeId (as a string or int depending on the DB schema)
+                        cmd.Parameters.AddWithValue("@AssetTypeId", int.Parse(assetTypeId)); // Assuming asset_type_id is an integer in the DB
+                        cmd.Parameters.AddWithValue("@ItemName", assetItemName);
+
+                        int rowsAffected = cmd.ExecuteNonQuery();
+
+                        if (rowsAffected > 0)
+                        {
+                            Response.Write("<script>alert('Asset Item added successfully!');</script>");
+                        }
+                        else
+                        {
+                            Response.Write("<script>alert('Failed to add Asset Item.');</script>");
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Response.Write("<script>alert('Error: " + ex.Message + "');</script>");
+            }
+        }
+
+    }
+}
+

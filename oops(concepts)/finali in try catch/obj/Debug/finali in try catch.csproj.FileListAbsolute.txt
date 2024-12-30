@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\bin\Debug\finali in try catch.exe.config
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\bin\Debug\finali in try catch.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\bin\Debug\finali in try catch.pdb
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\obj\Debug\finali in try catch.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\obj\Debug\finali in try catch.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\obj\Debug\finali in try catch.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\finali in try catch\obj\Debug\finali in try catch.pdb

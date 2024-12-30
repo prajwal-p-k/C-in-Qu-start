@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\bin\Debug\sortLst(sorted_list).exe.config
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\bin\Debug\sortLst(sorted_list).exe
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\bin\Debug\sortLst(sorted_list).pdb
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\obj\Debug\sortLst(sorted_list).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\obj\Debug\sortLst(sorted_list).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\obj\Debug\sortLst(sorted_list).exe
+C:\Users\PrajwalPK\source\repos\Array\sortLst(sorted_list)\obj\Debug\sortLst(sorted_list).pdb

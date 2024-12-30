@@ -1,0 +1,65 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Aset.aspx.cs" Inherits="AssetManagement.Aset" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>User Management</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Fetch roles dynamically
+            $.ajax({
+                url: 'Aset.aspx?action=getRoles', // Endpoint to fetch roles
+                type: 'GET',
+                success: function (data) {
+                    var roles = JSON.parse(data);
+                    var roleDropdown = $('#userRole');
+
+                    // Populate the dropdown
+                    roleDropdown.empty();
+                    roleDropdown.append('<option value="" disabled selected>Select a role</option>');
+                    $.each(roles, function (index, role) {
+                        roleDropdown.append('<option value="' + role.role_id + '">' + role.role_name + '</option>');
+                    });
+                },
+                error: function (xhr, status, error) {
+                    alert("Error fetching roles: " + error);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container mt-5">
+            <h2 class="mb-4">Add User</h2>
+            <asp:Panel ID="UserFormPanel" runat="server">
+                <div class="form-group">
+                    <label for="userName">Name</label>
+                    <asp:TextBox ID="userName" CssClass="form-control" runat="server" Placeholder="Enter name"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label for="userRole">Role</label>
+                    <asp:DropDownList ID="userRole" CssClass="form-control" runat="server"></asp:DropDownList>
+                </div>
+                <div class="form-group">
+                    <label for="userEmail">Email</label>
+                    <asp:TextBox ID="userEmail" CssClass="form-control" runat="server" TextMode="Email" Placeholder="Enter email"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label for="userPhone">Phone</label>
+                    <asp:TextBox ID="userPhone" CssClass="form-control" runat="server" Placeholder="Enter phone number"></asp:TextBox>
+                </div>
+                <div class="form-group">
+                    <label for="userPassword">Password</label>
+                    <asp:TextBox ID="userPassword" CssClass="form-control" runat="server" TextMode="Password" Placeholder="Enter password"></asp:TextBox>
+                </div>
+                <asp:Button ID="btnSubmit" CssClass="btn btn-primary" runat="server" Text="Add User" OnClick="btnSubmit_Click" />
+            </asp:Panel>
+        </div>
+    </form>
+</body>
+</html>
+

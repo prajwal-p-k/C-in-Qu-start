@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A989580-FAC7-4A38-B71E-DFD9D049A3A4}|ado\\ado.csproj|C:\\Users\\PrajwalPK\\source\\repos\\ado\\ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A989580-FAC7-4A38-B71E-DFD9D049A3A4}|ado\\ado.csproj|solutionrelative:ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BC7A47-2D4E-4F7E-A0FC-974738AB839A}|connection less update\\connection less update.csproj|C:\\Users\\PrajwalPK\\source\\repos\\ado\\connection less update\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BC7A47-2D4E-4F7E-A0FC-974738AB839A}|connection less update\\connection less update.csproj|solutionrelative:connection less update\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A15C62-3980-4285-9FE2-FDE10233C6ED}|adding twounKown tablws\\adding twounKown tablws.csproj|c:\\users\\prajwalpk\\source\\repos\\ado\\adding twounkown tablws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A15C62-3980-4285-9FE2-FDE10233C6ED}|adding twounKown tablws\\adding twounKown tablws.csproj|solutionrelative:adding twounkown tablws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A703924F-92E2-47B0-8430-B7E2C8438E28}|disconnnected data access\\disconnnected data access.csproj|C:\\Users\\PrajwalPK\\source\\repos\\ado\\disconnnected data access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A703924F-92E2-47B0-8430-B7E2C8438E28}|disconnnected data access\\disconnnected data access.csproj|solutionrelative:disconnnected data access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\connection less update\\Program.cs",
+              "RelativeDocumentMoniker": "connection less update\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\connection less update\\Program.cs",
+              "RelativeToolTip": "connection less update\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:43:44.923Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\adding twounKown tablws\\Program.cs",
+              "RelativeDocumentMoniker": "adding twounKown tablws\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\adding twounKown tablws\\Program.cs",
+              "RelativeToolTip": "adding twounKown tablws\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:47:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\disconnnected data access\\Program.cs",
+              "RelativeDocumentMoniker": "disconnnected data access\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\disconnnected data access\\Program.cs",
+              "RelativeToolTip": "disconnnected data access\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwB4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:28:18.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\ado\\Program.cs",
+              "RelativeDocumentMoniker": "ado\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\ado\\ado\\Program.cs",
+              "RelativeToolTip": "ado\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:24:37.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

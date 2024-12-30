@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A85F2C-D546-4538-9615-0CB39DAD7689}|user define exception\\user define exception.csproj|c:\\users\\prajwalpk\\source\\repos\\oops(concepts)\\user define exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A85F2C-D546-4538-9615-0CB39DAD7689}|user define exception\\user define exception.csproj|solutionrelative:user define exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A85F2C-D546-4538-9615-0CB39DAD7689}|user define exception\\user define exception.csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\user define exception\\invalidslotexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A85F2C-D546-4538-9615-0CB39DAD7689}|user define exception\\user define exception.csproj|solutionrelative:user define exception\\invalidslotexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F273AB-34E8-475A-947E-1631CC9D5E4A}|excaptoinhandling\\excaptoinhandling.csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\excaptoinhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F273AB-34E8-475A-947E-1631CC9D5E4A}|excaptoinhandling\\excaptoinhandling.csproj|solutionrelative:excaptoinhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1792B6-57E0-451A-9125-7A76C6DD40C7}|finali in try catch\\finali in try catch.csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\finali in try catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1792B6-57E0-451A-9125-7A76C6DD40C7}|finali in try catch\\finali in try catch.csproj|solutionrelative:finali in try catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6039452E-2D8C-4670-ADD6-0CCEA5455E8E}|ParaMeterpass\\ParaMeterpass.csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\parameterpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6039452E-2D8C-4670-ADD6-0CCEA5455E8E}|ParaMeterpass\\ParaMeterpass.csproj|solutionrelative:parameterpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\aict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\aict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\univercity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\univercity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AED09A-2B36-422C-BCE9-E45B0368CCE3}|oops(concepts)\\oops(concepts).csproj|solutionrelative:oops(concepts)\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Collage.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Collage.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\Collage.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Collage.cs",
+              "RelativeToolTip": "oops(concepts)\\Collage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:03.878Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\excaptoinhandling\\Program.cs",
+              "RelativeDocumentMoniker": "excaptoinhandling\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\excaptoinhandling\\Program.cs",
+              "RelativeToolTip": "excaptoinhandling\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:09:24.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidSlotException.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\user define exception\\InvalidSlotException.cs",
+              "RelativeDocumentMoniker": "user define exception\\InvalidSlotException.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\user define exception\\InvalidSlotException.cs",
+              "RelativeToolTip": "user define exception\\InvalidSlotException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:03.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\user define exception\\Program.cs",
+              "RelativeDocumentMoniker": "user define exception\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\user define exception\\Program.cs",
+              "RelativeToolTip": "user define exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:08:35.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\finali in try catch\\Program.cs",
+              "RelativeDocumentMoniker": "finali in try catch\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\finali in try catch\\Program.cs",
+              "RelativeToolTip": "finali in try catch\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAXAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:39:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\ParaMeterpass\\Program.cs",
+              "RelativeDocumentMoniker": "ParaMeterpass\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\ParaMeterpass\\Program.cs",
+              "RelativeToolTip": "ParaMeterpass\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:32:31.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AICT.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\AICT.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\AICT.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\AICT.cs",
+              "RelativeToolTip": "oops(concepts)\\AICT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:00:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex1.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex1.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\ex1.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex1.cs",
+              "RelativeToolTip": "oops(concepts)\\ex1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:17:35.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\ex.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\ex.cs",
+              "RelativeToolTip": "oops(concepts)\\ex.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:16:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Department.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\Department.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Department.cs",
+              "RelativeToolTip": "oops(concepts)\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:53:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Univercity.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Univercity.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\Univercity.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Univercity.cs",
+              "RelativeToolTip": "oops(concepts)\\Univercity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:41:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Employee.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\Employee.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Employee.cs",
+              "RelativeToolTip": "oops(concepts)\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:53:10.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Program.cs",
+              "RelativeDocumentMoniker": "oops(concepts)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\oops(concepts)\\oops(concepts)\\Program.cs",
+              "RelativeToolTip": "oops(concepts)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:51:52.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

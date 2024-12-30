@@ -1,0 +1,36 @@
+﻿@model Test.Models.User
+<div style="font-family:Calibri;margin:10px;padding:10px">
+    <div style="border:solid 1pt wheat;width:50%">
+        <div style="background-color:aqua;color:wheat;text-align:center;margin:10px;padding:10px">
+            <h5>Employee Login</h5>
+
+        </div>
+        <div style="margin-top:10px;padding:20px">
+            <form asp-action="Login" asp-controller="Book">
+               
+
+                <div class="form-group">
+                    <div>email</div>
+                    <div><input type="text" id="txtemil" class="form-control" asp-for="Email" /></div>
+                </div>
+
+                <div class="form-group">
+                    <div>password</div>
+                    <div><input type="text" id="txtpass" class="form-control" asp-for="PWD" /></div>
+                </div>
+
+                <div class="form-group">
+                    <div>
+                        <input type="submit" id="btnLog" value="Click to Login" class=" form-control btn btn-success" />
+                    </div>
+
+                </div>
+                <div style="color:red">@ViewBag.Message</div>
+
+            </form>
+
+        </div>
+    </div>
+
+</div>
+

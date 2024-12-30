@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|c:\\users\\prajwalpk\\source\\repos\\sampleapplication\\sampleapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\validate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\validate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\validate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\validate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\sampleapplication\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6314A-3C47-4A76-B0EB-FE311FA171B0}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.aspx.cs",
+              "RelativeToolTip": "SampleApplication\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:36:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.aspx",
+              "RelativeDocumentMoniker": "SampleApplication\\Login.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.aspx",
+              "RelativeToolTip": "SampleApplication\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T09:55:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "validate.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\validate.aspx",
+              "RelativeDocumentMoniker": "SampleApplication\\validate.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\validate.aspx",
+              "RelativeToolTip": "SampleApplication\\validate.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T11:49:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "validate.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\validate.aspx.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\validate.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\validate.aspx.cs",
+              "RelativeToolTip": "SampleApplication\\validate.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:50:08.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx.designer.cs",
+              "RelativeToolTip": "SampleApplication\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:04:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx.cs",
+              "RelativeToolTip": "SampleApplication\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:23:24.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx",
+              "RelativeDocumentMoniker": "SampleApplication\\Home.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Home.aspx",
+              "RelativeToolTip": "SampleApplication\\Home.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T12:03:44.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.html",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.html",
+              "RelativeDocumentMoniker": "SampleApplication\\Login.html",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\SampleApplication\\SampleApplication\\Login.html",
+              "RelativeToolTip": "SampleApplication\\Login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-18T10:00:40.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

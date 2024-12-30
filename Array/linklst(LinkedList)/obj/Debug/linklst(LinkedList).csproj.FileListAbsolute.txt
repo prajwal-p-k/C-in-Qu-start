@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\bin\Debug\linklst(LinkedList).exe.config
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\bin\Debug\linklst(LinkedList).exe
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\bin\Debug\linklst(LinkedList).pdb
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\obj\Debug\linklst(LinkedList).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\obj\Debug\linklst(LinkedList).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\obj\Debug\linklst(LinkedList).exe
+C:\Users\PrajwalPK\source\repos\Array\linklst(LinkedList)\obj\Debug\linklst(LinkedList).pdb

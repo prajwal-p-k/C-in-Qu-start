@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\obj\Debug\Q(queue).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\obj\Debug\Q(queue).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\bin\Debug\Q(queue).exe.config
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\bin\Debug\Q(queue).exe
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\bin\Debug\Q(queue).pdb
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\obj\Debug\Q(queue).exe
+C:\Users\PrajwalPK\source\repos\Array\Q(queue)\obj\Debug\Q(queue).pdb

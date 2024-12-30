@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\bin\Debug\ParaMeterpass.exe.config
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\bin\Debug\ParaMeterpass.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\bin\Debug\ParaMeterpass.pdb
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\obj\Debug\ParaMeterpass.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\obj\Debug\ParaMeterpass.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\obj\Debug\ParaMeterpass.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\ParaMeterpass\obj\Debug\ParaMeterpass.pdb

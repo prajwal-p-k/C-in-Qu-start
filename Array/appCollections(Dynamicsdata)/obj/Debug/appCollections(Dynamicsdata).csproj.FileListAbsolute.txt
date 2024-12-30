@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\bin\Debug\appCollections(Dynamicsdata).exe.config
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\bin\Debug\appCollections(Dynamicsdata).exe
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\bin\Debug\appCollections(Dynamicsdata).pdb
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\obj\Debug\appCollections(Dynamicsdata).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\obj\Debug\appCollections(Dynamicsdata).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\obj\Debug\appCollections(Dynamicsdata).exe
+C:\Users\PrajwalPK\source\repos\Array\appCollections(Dynamicsdata)\obj\Debug\appCollections(Dynamicsdata).pdb

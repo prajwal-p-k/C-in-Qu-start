@@ -1,0 +1,28 @@
+﻿@model Test.Models.User
+<div style="font-family: Calibri; margin: 20px; padding: 20px;">
+    <div style="border: solid 1px wheat; width: 50%; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <!-- Header Section -->
+        <div style="background-color: aqua; color: wheat; text-align: center; margin: 0; padding: 20px; border-bottom: solid 1px wheat;">
+            <h5 style="margin: 0;">Welcome to Books</h5>
+        </div>
+
+        <!-- Content Section -->
+        <div style="margin: 20px; padding: 20px;">
+
+            <!-- Login Button -->
+            <div class="form-group" style="margin-bottom: 20px;">
+                <a  class="form-control btn btn-success" style="background-color: #28a745; border: none; text-align: center; padding: 10px;" asp-action="Login">
+                    Login
+                </a>
+            </div>
+
+            <!-- View Books Button -->
+            <form asp-action="Index1" asp-controller="Book">
+                <div class="form-group">
+                    <input type="submit" id="btnViewBooks" value="View the Books" class="form-control btn btn-success"
+                           style="background-color: #007bff; border: none; text-align: center; padding: 10px;" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

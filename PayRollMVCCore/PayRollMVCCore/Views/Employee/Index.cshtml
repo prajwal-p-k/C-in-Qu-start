@@ -1,0 +1,71 @@
+﻿@model List<PayRollMVCCore.Models.Employee>
+<div style="padding:20px;margin:10px;font-family:Calibri">
+    <div>
+        <h3>Q strat employee</h3>
+    </div>
+    <div style="display:flex">
+        <h5>Well Come session :</h5>
+        <h5 id="abc"> @ViewBag.User</h5>
+    </div>
+    <div style="display:flex">
+        <h5>Well Come :</h5>
+        <h5 id="abc"> @ViewBag.UserName</h5>
+    </div>
+    <div style="margin-bottom:10px">
+        <a class="btn btn-primary" asp-action="New">Add new Employee</a>
+    </div>
+    <table class="table table-bordered">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>DOB</th>
+            <th>DOJ</th>
+            <th>Skill</th>
+            <th>Department</th>
+            <th>Salary</th>
+            <th>edit info</th>
+        </tr>
+        @foreach (Employee e in Model)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Name</td>
+                <td>@e.Email</td>
+                <td>@e.Mobile</td>
+                <td>@e.DOB</td>
+                <td>@e.DOJ</td>
+                <td>@e.Skillset</td>
+                <td>@e.Department?.DepartmentName</td>
+                <td>@e.Salary</td>
+                <td><a asp-action="Edit" asp-route-id="@e.Id">Edit</a></td>
+                <td><a asp-action="delete" asp-route-id="@e.Id" onclick="return confirm('are you sure to delete ?')">Delete</a></td>
+            </tr>
+        }
+    </table>
+
+    <!-- Pagination controls -->
+    <div>
+        <ul class="pagination">
+            @if (ViewBag.CurrentPage > 1)
+            {
+                <li>
+                    <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })">Previous</a>
+                </li>
+            }
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="@(i == ViewBag.CurrentPage ? "active" : "")">
+                    <a href="@Url.Action("Index", new { page = i })">@i</a>
+                </li>
+            }
+            @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+            {
+                <li>
+                    <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })">Next</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

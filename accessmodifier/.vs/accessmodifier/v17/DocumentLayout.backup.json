@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\accessmodifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182DCECB-3036-4061-BB8D-5F635FD91F6C}|accessmodifier\\accessmodifier.csproj|c:\\users\\prajwalpk\\documents\\c#\\access modifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182DCECB-3036-4061-BB8D-5F635FD91F6C}|accessmodifier\\accessmodifier.csproj|c:\\users\\prajwalpk\\documents\\c#\\interhert modifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interhert modifier.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\Documents\\c#\\interhert modifier.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\c#\\interhert modifier.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\Documents\\c#\\interhert modifier.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\c#\\interhert modifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:44:44.742Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "access modifier.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\Documents\\c#\\access modifier.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\c#\\access modifier.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\Documents\\c#\\access modifier.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\c#\\access modifier.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:42:20.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

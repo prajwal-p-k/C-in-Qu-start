@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\bin\Debug\Array and collections.exe.config
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\bin\Debug\Array and collections.exe
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\bin\Debug\Array and collections.pdb
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\obj\Debug\Array and collections.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\obj\Debug\Array and collections.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\obj\Debug\Array and collections.exe
+C:\Users\PrajwalPK\source\repos\Array and collections\Array and collections\obj\Debug\Array and collections.pdb

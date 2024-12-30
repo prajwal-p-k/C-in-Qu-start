@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|c:\\users\\prajwalpk\\source\\repos\\masterpage\\masterpage\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|solutionrelative:masterpage\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|c:\\users\\prajwalpk\\source\\repos\\masterpage\\masterpage\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|solutionrelative:masterpage\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterpage\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867BCA5A-6154-4475-A71B-50376BF40C17}|masterPage\\masterPage.csproj|solutionrelative:masterpage\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.master.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\admin.master.cs",
+              "RelativeDocumentMoniker": "masterPage\\admin.master.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\admin.master.cs",
+              "RelativeToolTip": "masterPage\\admin.master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:25:25.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\Login.aspx",
+              "RelativeDocumentMoniker": "masterPage\\Login.aspx",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\Login.aspx",
+              "RelativeToolTip": "masterPage\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T13:28:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "masterPage\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\masterPage\\masterPage\\Login.aspx.cs*",
+              "RelativeToolTip": "masterPage\\Login.aspx.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:21:23.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

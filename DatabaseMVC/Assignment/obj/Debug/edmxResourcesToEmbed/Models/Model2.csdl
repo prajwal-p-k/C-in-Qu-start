@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CategoryList">
+    <Key>
+      <PropertyRef Name="catid" />
+    </Key>
+    <Property Name="catid" Type="Int32" Nullable="false" />
+    <Property Name="Category" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="ProductMasters" Relationship="Self.FK__ProductMa__Catid__22751F6C" FromRole="CategoryList" ToRole="ProductMaster" />
+    <NavigationProperty Name="ProductMasters1" Relationship="Self.FK__ProductMa__Catid__4BAC3F29" FromRole="CategoryList" ToRole="ProductMaster" />
+    <NavigationProperty Name="ProductMasters2" Relationship="Self.FK__ProductMa__Catid__7E37BEF6" FromRole="CategoryList" ToRole="ProductMaster" />
+  </EntityType>
+  <EntityType Name="ProductMaster">
+    <Key>
+      <PropertyRef Name="Pid" />
+    </Key>
+    <Property Name="Pid" Type="Int32" Nullable="false" />
+    <Property Name="Product" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PImage" Type="Int32" />
+    <Property Name="Catid" Type="Int32" />
+    <Property Name="VendorId" Type="Int32" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="ProfitPercentage" Type="Decimal" Precision="5" Scale="2" />
+    <NavigationProperty Name="CategoryList" Relationship="Self.FK__ProductMa__Catid__22751F6C" FromRole="ProductMaster" ToRole="CategoryList" />
+    <NavigationProperty Name="CategoryList1" Relationship="Self.FK__ProductMa__Catid__4BAC3F29" FromRole="ProductMaster" ToRole="CategoryList" />
+    <NavigationProperty Name="CategoryList2" Relationship="Self.FK__ProductMa__Catid__7E37BEF6" FromRole="ProductMaster" ToRole="CategoryList" />
+  </EntityType>
+  <Association Name="FK__ProductMa__Catid__22751F6C">
+    <End Role="CategoryList" Type="Self.CategoryList" Multiplicity="0..1" />
+    <End Role="ProductMaster" Type="Self.ProductMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryList">
+        <PropertyRef Name="catid" />
+      </Principal>
+      <Dependent Role="ProductMaster">
+        <PropertyRef Name="Catid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductMa__Catid__4BAC3F29">
+    <End Role="CategoryList" Type="Self.CategoryList" Multiplicity="0..1" />
+    <End Role="ProductMaster" Type="Self.ProductMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryList">
+        <PropertyRef Name="catid" />
+      </Principal>
+      <Dependent Role="ProductMaster">
+        <PropertyRef Name="Catid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductMa__Catid__7E37BEF6">
+    <End Role="CategoryList" Type="Self.CategoryList" Multiplicity="0..1" />
+    <End Role="ProductMaster" Type="Self.ProductMaster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryList">
+        <PropertyRef Name="catid" />
+      </Principal>
+      <Dependent Role="ProductMaster">
+        <PropertyRef Name="Catid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyShopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CategoryLists" EntityType="Self.CategoryList" />
+    <EntitySet Name="ProductMasters" EntityType="Self.ProductMaster" />
+    <AssociationSet Name="FK__ProductMa__Catid__22751F6C" Association="Self.FK__ProductMa__Catid__22751F6C">
+      <End Role="CategoryList" EntitySet="CategoryLists" />
+      <End Role="ProductMaster" EntitySet="ProductMasters" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductMa__Catid__4BAC3F29" Association="Self.FK__ProductMa__Catid__4BAC3F29">
+      <End Role="CategoryList" EntitySet="CategoryLists" />
+      <End Role="ProductMaster" EntitySet="ProductMasters" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductMa__Catid__7E37BEF6" Association="Self.FK__ProductMa__Catid__7E37BEF6">
+      <End Role="CategoryList" EntitySet="CategoryLists" />
+      <End Role="ProductMaster" EntitySet="ProductMasters" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

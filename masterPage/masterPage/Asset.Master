@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Asset.master.cs" Inherits="masterPage.Asset" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="bootstrap.css" type="text/css" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="font-family:colibri">
+    <form id="form1" runat="server">
+        <div style="color:navy;text-align:center">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+            <h2>QU Asset Tracker</h2>
+
+        </div>
+        <hr />
+        <div style="padding:10px">
+            <asp:LinkButton ID="btnHome" runat="server" OnClick="btnHome_Click">Home</asp:LinkButton>
+
+        <div style="width:20%;text-align:center;margin-right:10px;display:inline-block">
+
+            <asp:LinkButton ID="btnabout" runat="server" OnClick="btnabout_Click">about</asp:LinkButton>
+
+</div>
+
+                    <div style="width:20%;text-align:center;margin-right:10px;display:inline-block">
+
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                            <asp:LinkButton ID="btnlogin" runat="server" OnClick="btnlogin_Click1">login</asp:LinkButton>
+                        </asp:ContentPlaceHolder>
+
+</div>
+            <p id="btnlogin">
+                &nbsp;</p>
+
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div style="text-align:center;color:teal">
+            <h4>
+                Copy Rights &copy; : All rights are reserved to Qu-start Technologies&trade; ,Mysore
+            </h4>
+            <p>
+                Developed and Maintained by Prajwal P K
+            </p>
+
+        </div>
+    </form>
+</body>
+</html>

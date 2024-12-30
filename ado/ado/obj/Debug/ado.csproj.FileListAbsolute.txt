@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\ado\ado\bin\Debug\ado.exe.config
+C:\Users\PrajwalPK\source\repos\ado\ado\bin\Debug\ado.exe
+C:\Users\PrajwalPK\source\repos\ado\ado\bin\Debug\ado.pdb
+C:\Users\PrajwalPK\source\repos\ado\ado\obj\Debug\ado.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\ado\ado\obj\Debug\ado.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\ado\ado\obj\Debug\ado.exe
+C:\Users\PrajwalPK\source\repos\ado\ado\obj\Debug\ado.pdb

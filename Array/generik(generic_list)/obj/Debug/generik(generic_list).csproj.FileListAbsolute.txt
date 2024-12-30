@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\bin\Debug\generik(generic_list).exe.config
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\bin\Debug\generik(generic_list).exe
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\bin\Debug\generik(generic_list).pdb
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\obj\Debug\generik(generic_list).csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\obj\Debug\generik(generic_list).csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\obj\Debug\generik(generic_list).exe
+C:\Users\PrajwalPK\source\repos\Array\generik(generic_list)\obj\Debug\generik(generic_list).pdb

@@ -1,0 +1,57 @@
+﻿@model Assignment.Models.CategoryList
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<h2>Category List</h2>
+
+<div>
+    <h4>Select a Category</h4>
+    <div>
+        @using (Html.BeginForm("List", "Home", FormMethod.Post))
+        {
+            @Html.DropDownList("catid", ViewBag.CategoryList as SelectList, "Choose Category", new { @class = "form-control" })
+
+            <button type="submit" class="btn btn-primary mt-3">Get Products</button>
+        }
+    </div>
+
+    @if (ViewBag.Products != null)
+    {
+        <div>
+            <h4>Products</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Image</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in ViewBag.Products)
+                    {
+                        <tr>
+                            <td>@product.Pid</td>
+                            <td>@product.Product</td>
+                            <td>@product.PImage</td>
+                            <td>@product.Quantity</td>
+                            <td>@product.Price</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div>
+            <h4>No Products Found</h4>
+        </div>
+    }
+</div>

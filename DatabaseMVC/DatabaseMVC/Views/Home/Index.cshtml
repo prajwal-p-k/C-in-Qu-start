@@ -1,0 +1,34 @@
+﻿@model List<DatabaseMVC.Models.Mark>
+@using DatabaseMVC.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h3>qustrat</h3>
+<div>
+    @Html.ActionLink("register", "Add", null, new { @class = "btn btn-primary" })
+<table class="table table-responsive">
+    <tr>
+        <th>stid</th>
+        <th>subid</th>
+        <th>score</th>
+        <th colspan="2"></th>
+    </tr>
+    @foreach (Mark e in Model)
+    {
+        <tr>
+            <th>@e.Stid</th>
+            <th>@e.Subject.SubjectName</th>
+            <th>@e.Score</th>
+            <td>
+                @Html.ActionLink("Modifly", "Edit", new { Stid = e.Stid}, new { @class = "btn btn-warning" })
+            </td>
+            <td>
+                @Html.ActionLink("Remove", "Delete", new { Stid = e.Stid }, new { @class = "btn btn-alert" ,onclick="return confirm('are you sure to delete ?')" })
+            </td>
+        </tr>
+    }
+</table>
+</div>
+

@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fade and Redirect</title>
+    <script src="Data/jquery1.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Existing Hide and Show functionalities
+            $("#btnHide").click(function () {
+                $("#divPro").fadeTo(3000, .2);
+                $("#divPro2").fadeIn(5000).animate({ top: "-275px" }, 4000);
+            });
+
+            $("#btnClose").click(function () {
+                $("#divPro").fadeIn(3000, 1);
+                $(this).parent().fadeOut(1000);
+            });
+            
+
+            // New Login Button functionality
+            $("#btnLogin").click(function () {
+                // Fade the background
+                $("body").fadeOut(3000, function () {
+                    // Redirect to the index page after the fade-out
+                    window.location.href = "index1.html"; // Replace with your actual index page URL
+                });
+            });
+        });
+    </script>
+</head>
+<body style="font-family:Calibri">
+    <div style="padding:20px">
+        <div style="padding:10px; margin:10px; width:50%; border:solid 1px teal" id="divContainer">
+            <div style="padding:1px; background-color:blue; color:white; text-align:center" id="divH1">
+                <h4>Products</h4>
+            </div>
+            <div style="padding:3px" id="divPro">
+                <ul>
+                    <li>Web Technology</li>
+                    <li>Cloud Services</li>
+                    <li>ERP</li>
+                    <li>Enterprise Solutions</li>
+                    <li>Industrial Annotations</li>
+                    <li>IOT Applications</li>
+                    <li>App Services</li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style="padding:20px">
+            <div style="padding:10px; margin:10px; width:50%; border:solid 1px teal" id="divContainer">
+                <div style="padding:1px; background-color:blue; color:white; text-align:center" id="divH2">
+                    <h4>Products</h4>
+                </div>
+                <div style="padding:3px" id="divPro2">
+                    <ul>
+                        <li>Web Technology</li>
+                        <li>Cloud Services</li>
+                        <li>ERP</li>
+                        <li>Enterprise Solutions</li>
+                        <li>Industrial Annotations</li>
+                        <li>IOT Applications</li>
+                        <li>App Services</li>
+                    </ul>
+                    <button id="btnClose" type="button">Close</button>
+                </div>
+            </div>
+            <div style="padding:20px; display:inline-block; width:20%;"><button type="button" id="btnSHow">Show</button></div>
+            <div style="padding:20px; display:inline-block; width:20%;"><button type="button" id="btnHide">Hide</button></div>
+        </div>
+
+        <!-- Login Button -->
+        <div style="padding:20px">
+            <button id="btnLogin" type="button">Login</button>
+        </div>
+    </div>
+</body>
+</html>

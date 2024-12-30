@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\bin\Debug\accessmodifier.exe.config
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\bin\Debug\accessmodifier.exe
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\bin\Debug\accessmodifier.pdb
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\obj\Debug\accessmodifier.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\obj\Debug\accessmodifier.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\obj\Debug\accessmodifier.exe
+C:\Users\PrajwalPK\source\repos\accessmodifier\accessmodifier\obj\Debug\accessmodifier.pdb

@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\bin\Debug\Simplecode.exe.config
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\bin\Debug\Simplecode.exe
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\bin\Debug\Simplecode.pdb
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\obj\Debug\Simplecode.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\obj\Debug\Simplecode.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\obj\Debug\Simplecode.exe
+C:\Users\PrajwalPK\source\repos\Simplecode\Simplecode\obj\Debug\Simplecode.pdb

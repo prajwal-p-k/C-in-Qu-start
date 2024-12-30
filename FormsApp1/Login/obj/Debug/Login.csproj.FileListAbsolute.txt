@@ -1,0 +1,11 @@
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\bin\Debug\Login.exe.config
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\bin\Debug\Login.exe
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\bin\Debug\Login.pdb
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.Form1.resources
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.exe
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.pdb
+C:\Users\PrajwalPK\source\repos\FormsApp1\Login\obj\Debug\Login.Home.resources

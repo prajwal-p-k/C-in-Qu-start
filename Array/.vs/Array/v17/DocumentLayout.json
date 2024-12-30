@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8B57C3-0633-41E9-9C2E-12580134F693}|htable\\htable.csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\htable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8B57C3-0633-41E9-9C2E-12580134F693}|htable\\htable.csproj|solutionrelative:htable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ED019B-623E-455A-B80F-4CE962338333}|Hashtable\\Hashtable.csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ED019B-623E-455A-B80F-4CE962338333}|Hashtable\\Hashtable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18718EC7-8E29-404D-BD3A-FF7C4E2928BE}|appCollections(Dynamicsdata)\\appCollections(Dynamicsdata).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\appcollections(dynamicsdata)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18718EC7-8E29-404D-BD3A-FF7C4E2928BE}|appCollections(Dynamicsdata)\\appCollections(Dynamicsdata).csproj|solutionrelative:appcollections(dynamicsdata)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EAF581-33DF-439A-9B8B-1FBE2D0183F4}|Array\\Array.csproj|c:\\users\\prajwalpk\\documents\\c#\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4341F721-131A-4F53-9F03-847EBBD0C15A}|generik(generic_list)\\generik(generic_list).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4341F721-131A-4F53-9F03-847EBBD0C15A}|generik(generic_list)\\generik(generic_list).csproj|solutionrelative:generik(generic_list)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4341F721-131A-4F53-9F03-847EBBD0C15A}|generik(generic_list)\\generik(generic_list).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4341F721-131A-4F53-9F03-847EBBD0C15A}|generik(generic_list)\\generik(generic_list).csproj|solutionrelative:generik(generic_list)\\emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34D2DA-A7EB-4304-A288-3113A3CDFBA8}|hashst(hashset)\\hashst(hashset).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\hashst(hashset)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A34D2DA-A7EB-4304-A288-3113A3CDFBA8}|hashst(hashset)\\hashst(hashset).csproj|solutionrelative:hashst(hashset)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09537D0C-F25D-4CA3-BF9F-5002A78154A7}|linklst(LinkedList)\\linklst(LinkedList).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\linklst(linkedlist)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09537D0C-F25D-4CA3-BF9F-5002A78154A7}|linklst(LinkedList)\\linklst(LinkedList).csproj|solutionrelative:linklst(linkedlist)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8205C-2985-4216-905B-44D2DADB4ACD}|sortLst(sorted_list)\\sortLst(sorted_list).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\sortlst(sorted_list)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8205C-2985-4216-905B-44D2DADB4ACD}|sortLst(sorted_list)\\sortLst(sorted_list).csproj|solutionrelative:sortlst(sorted_list)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF48CB54-7F8E-4B82-9A84-ADFF7F58FC01}|Q(queue)\\Q(queue).csproj|C:\\Users\\PrajwalPK\\source\\repos\\Array\\q(queue)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF48CB54-7F8E-4B82-9A84-ADFF7F58FC01}|Q(queue)\\Q(queue).csproj|solutionrelative:q(queue)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\Program.cs",
+              "RelativeDocumentMoniker": "generik(generic_list)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\Program.cs",
+              "RelativeToolTip": "generik(generic_list)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:30:15.893Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\linklst(LinkedList)\\Program.cs",
+              "RelativeDocumentMoniker": "linklst(LinkedList)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\linklst(LinkedList)\\Program.cs",
+              "RelativeToolTip": "linklst(LinkedList)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:11:27.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\hashst(hashset)\\Program.cs",
+              "RelativeDocumentMoniker": "hashst(hashset)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\hashst(hashset)\\Program.cs",
+              "RelativeToolTip": "hashst(hashset)\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:53:37.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Emploee.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\Emploee.cs",
+              "RelativeDocumentMoniker": "generik(generic_list)\\Emploee.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\generik(generic_list)\\Emploee.cs",
+              "RelativeToolTip": "generik(generic_list)\\Emploee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:25:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\sortLst(sorted_list)\\Program.cs",
+              "RelativeDocumentMoniker": "sortLst(sorted_list)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\sortLst(sorted_list)\\Program.cs",
+              "RelativeToolTip": "sortLst(sorted_list)\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:42:07.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\Q(queue)\\Program.cs",
+              "RelativeDocumentMoniker": "Q(queue)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\Q(queue)\\Program.cs",
+              "RelativeToolTip": "Q(queue)\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:59:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\htable\\Program.cs",
+              "RelativeDocumentMoniker": "htable\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\htable\\Program.cs",
+              "RelativeToolTip": "htable\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:47:26.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\Hashtable\\Program.cs",
+              "RelativeDocumentMoniker": "Hashtable\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\Hashtable\\Program.cs",
+              "RelativeToolTip": "Hashtable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:45:04.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\appCollections(Dynamicsdata)\\Program.cs",
+              "RelativeDocumentMoniker": "appCollections(Dynamicsdata)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\Array\\appCollections(Dynamicsdata)\\Program.cs",
+              "RelativeToolTip": "appCollections(Dynamicsdata)\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:13:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "array.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\Documents\\c#\\array.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\c#\\array.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\Documents\\c#\\array.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\c#\\array.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:57:38.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\bin\Debug\adding twounKown tablws.exe.config
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\bin\Debug\adding twounKown tablws.exe
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\bin\Debug\adding twounKown tablws.pdb
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\obj\Debug\adding twounKown tablws.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\obj\Debug\adding twounKown tablws.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\obj\Debug\adding twounKown tablws.exe
+C:\Users\PrajwalPK\source\repos\ado\adding twounKown tablws\obj\Debug\adding twounKown tablws.pdb

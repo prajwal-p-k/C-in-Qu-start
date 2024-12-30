@@ -1,0 +1,48 @@
+﻿ @*public ActionResult Add()
+ {
+     List<Subject>
+    sub=context.Subjects.ToList();
+    ViewBag.Subject = sub;
+    return View();
+    }
+    [HttpPost]
+    public ActionResult Add(Mark m)
+    {
+    context.Marks.Add(m);
+    context.SaveChanges();
+    return RedirectToAction("Index");
+    }*@
+    @{
+        ViewBag.Title = "Add";
+    }
+    @model DatabaseMVC.Models.Mark
+
+    <h2>Add</h2>
+    <div style="font-family:Calibri;margin:5px;padding:20px">
+        @using (Html.BeginForm("Save","Home",FormMethod.Post))
+        {
+            <div>
+                <div>student id 1</div>
+                <div>@Html.TextBoxFor(m => m.Stid, new { @class = "form-control" })</div>
+            </div>
+
+            <div>
+                <div>Subject</div>
+                <div>
+                    @Html.DropDownListFor(m => m.Subid, new SelectList(ViewBag.Subject, "subid", "SubjectName"), "Select Subject", new { @class = "form-control" })
+                </div>
+            </div>
+
+
+            <div>
+
+                <div>Score</div>
+                <div>@Html.TextBoxFor(m => m.Score, new { @class = "form-control" })</div>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-success">Register</button>
+            </div>
+        }
+
+    </div>
+

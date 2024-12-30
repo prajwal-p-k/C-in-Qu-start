@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\bin\Debug\user define exception.exe.config
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\bin\Debug\user define exception.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\bin\Debug\user define exception.pdb
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\obj\Debug\user define exception.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\obj\Debug\user define exception.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\obj\Debug\user define exception.exe
+C:\Users\PrajwalPK\source\repos\oops(concepts)\user define exception\obj\Debug\user define exception.pdb

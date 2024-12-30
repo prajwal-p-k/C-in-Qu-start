@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AppUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="Int64" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Statusid" Type="Int32" />
+    <Property Name="roleid" Type="Int32" />
+    <Property Name="addedby" Type="Int32" />
+    <Property Name="Doc" Type="DateTime" Precision="0" />
+    <Property Name="Role" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Mark">
+    <Key>
+      <PropertyRef Name="Stid" />
+      <PropertyRef Name="Subid" />
+    </Key>
+    <Property Name="Stid" Type="Int32" Nullable="false" />
+    <Property Name="Subid" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Decimal" Precision="5" Scale="2" />
+    <NavigationProperty Name="Subject" Relationship="Self.FK__Marks__Subid__3D5E1FD2" FromRole="Marks" ToRole="Subjects" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="subid" />
+    </Key>
+    <Property Name="subid" Type="Int32" Nullable="false" />
+    <Property Name="SubjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Marks" Relationship="Self.FK__Marks__Subid__3D5E1FD2" FromRole="Subjects" ToRole="Marks" />
+  </EntityType>
+  <Association Name="FK__Marks__Subid__3D5E1FD2">
+    <End Role="Subjects" Type="Self.Subject" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Mark" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="subid" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="Subid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="schoolEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AppUsers" EntityType="Self.AppUser" />
+    <EntitySet Name="Marks" EntityType="Self.Mark" />
+    <EntitySet Name="Subjects" EntityType="Self.Subject" />
+    <AssociationSet Name="FK__Marks__Subid__3D5E1FD2" Association="Self.FK__Marks__Subid__3D5E1FD2">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

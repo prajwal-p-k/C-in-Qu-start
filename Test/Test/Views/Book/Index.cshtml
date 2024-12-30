@@ -1,0 +1,54 @@
+﻿@model List<Test.Models.Book>
+
+<div class="container py-4">
+    <div class="mb-4">
+        <h3 class="text-primary">Books</h3>
+        <h5 class="text-secondary">Welcome: @ViewBag.msg</h5>
+    </div>
+
+    <div class="mb-3 d-flex justify-content-between">
+        <a asp-controller="Book" asp-action="Home" class="btn btn-secondary">Close</a>
+        <a asp-action="New" class="btn btn-primary">Add New Book</a>
+    </div>
+
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Category</th>
+                <th>Publisher</th>
+                <th>Year</th>
+                <th>Price</th>
+                <th colspan="2" class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Book e in Model)
+            {
+                <tr>
+                    <td>@e.BookId</td>
+                    <td>@e.BookName</td>
+                    <td>@e.BookAuthor</td>
+                    <td>@e.Category.CategoryName</td>
+                    <td>@e.Publisher.PublisherName</td>
+                    <td>@e.BookPublishedYear</td>
+                    <td>@e.BookPrice</td>
+                    <td class="text-center">
+                        <a asp-action="Edit" asp-route-id="@e.BookId" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+                    </td>
+                    <td class="text-center">
+                        <a asp-action="delete" asp-route-id="@e.BookId" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Are you sure to delete?')">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

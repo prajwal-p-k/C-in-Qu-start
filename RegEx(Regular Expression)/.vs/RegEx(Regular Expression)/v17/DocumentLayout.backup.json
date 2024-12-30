@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\RegEx(Regular Expression)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4A0857-ED4E-453D-AB0D-57AEC5B92F78}|RegEx(Regular Expression)\\RegEx(Regular Expression).csproj|c:\\users\\prajwalpk\\source\\repos\\regex(regular expression)\\regex(regular expression)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4A0857-ED4E-453D-AB0D-57AEC5B92F78}|RegEx(Regular Expression)\\RegEx(Regular Expression).csproj|solutionrelative:regex(regular expression)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\RegEx(Regular Expression)\\RegEx(Regular Expression)\\Program.cs",
+              "RelativeDocumentMoniker": "RegEx(Regular Expression)\\Program.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\RegEx(Regular Expression)\\RegEx(Regular Expression)\\Program.cs",
+              "RelativeToolTip": "RegEx(Regular Expression)\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAIwJ0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:08:42.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

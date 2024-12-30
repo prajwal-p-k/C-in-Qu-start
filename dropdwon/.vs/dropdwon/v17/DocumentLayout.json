@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrajwalPK\\source\\repos\\dropdwon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A033BA8-4A5E-4E53-8753-8B536CD0AA34}|dropdwon\\dropdwon.csproj|c:\\users\\prajwalpk\\source\\repos\\dropdwon\\dropdwon\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A033BA8-4A5E-4E53-8753-8B536CD0AA34}|dropdwon\\dropdwon.csproj|solutionrelative:dropdwon\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PrajwalPK\\source\\repos\\dropdwon\\dropdwon\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "dropdwon\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\PrajwalPK\\source\\repos\\dropdwon\\dropdwon\\Home.aspx.cs*",
+              "RelativeToolTip": "dropdwon\\Home.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:05:45.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

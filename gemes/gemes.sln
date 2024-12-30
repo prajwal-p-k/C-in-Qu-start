@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gemes", "gemes\gemes.csproj", "{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game1", "game1\game1.csproj", "{DA8EB36C-888B-469A-B3C3-8EF267B5E107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569B486C-E9B1-4D03-993D-E5D9E0BAA2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8EB36C-888B-469A-B3C3-8EF267B5E107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8EB36C-888B-469A-B3C3-8EF267B5E107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8EB36C-888B-469A-B3C3-8EF267B5E107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8EB36C-888B-469A-B3C3-8EF267B5E107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5784AA1E-0E99-4DA8-93E2-E190BDF2716F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\bin\Debug\disconnnected data access.exe.config
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\bin\Debug\disconnnected data access.exe
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\bin\Debug\disconnnected data access.pdb
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\obj\Debug\disconnnected data access.csproj.AssemblyReference.cache
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\obj\Debug\disconnnected data access.csproj.CoreCompileInputs.cache
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\obj\Debug\disconnnected data access.exe
+C:\Users\PrajwalPK\source\repos\ado\disconnnected data access\obj\Debug\disconnnected data access.pdb

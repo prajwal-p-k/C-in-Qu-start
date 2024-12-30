@@ -1,0 +1,63 @@
+﻿@model PayRollMVCCore.Models.Employee
+<div style="font-family:Calibri;margin:10px;padding:10px">
+    <div style="border:solid 1pt wheat;width:50%">
+        <div style="background-color:aqua;color:wheat;text-align:center;margin:10px;padding:10px">
+            <h5>Employee registration</h5>
+
+    </div>
+    <div style="margin-top:10px;padding:20px">
+        <form asp-action="save" asp-controller="Employee">
+            <div><input type="hidden" id="txtid" asp-for="Id"/></div>
+            <div class="form-group">
+                <div>Name</div>
+                <div><input type="text" id="txtname" class="form-control" asp-for="Name" /></div>
+            </div>
+                <div class="form-group">
+                    <div>email</div>
+                    <div><input type="text" id="txtemil" class="form-control" asp-for="Email" /></div>
+                </div>
+                <div class="form-group">
+                    <div>phone</div>
+                    <div><input type="text" id="txtphone" class="form-control" asp-for="Mobile" /></div>
+                </div>
+                <div class="form-group">
+                    <div>passwor</div>
+                    <div><input type="text" id="txtpass" class="form-control" asp-for="Password" /></div>
+                </div>
+                <div class="form-group">
+                    <div>dob</div>
+                    <div><input type="text" id="txtdob" class="form-control" asp-for="DOB" /></div>
+                </div>
+                <div class="form-group">
+                    <div>doj</div>
+                    <div><input type="text" id="txtdoj" class="form-control" asp-for="DOJ" /></div>
+                </div>
+                <div class="form-group">
+                    <div>Skill set</div>
+                    <div><input type="text" id="txtskill" class="form-control" asp-for="Skillset" /></div>
+                </div>
+                <div class="form-group">
+                    <div>Department</div>
+                    <div>@Html.DropDownListFor(m=>m.DepartmentId,new SelectList(ViewBag.Departments,"Id","DepartmentName"),"choose dapart ment",new {@class="form-control"})</div>
+                </div>
+                <div class="form-group">
+                    <div>Address</div>
+                    <div><input type="text" id="txtAdress" class="form-control" asp-for="Address" /></div>
+                </div>
+                <div class="form-group">
+                    <div>Salary</div>
+                    <div><input type="text" id="txtsalary" class="form-control" asp-for="Salary" /></div>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <input type="submit" id="btnsub" value="save employee detailes" class=" form-control btn btn-success" />
+                    </div>
+
+                </div>
+
+        </form>
+
+    </div>
+    </div>
+
+</div>
